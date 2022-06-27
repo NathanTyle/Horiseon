@@ -6,3 +6,7 @@ Horiseon is a website that specializes in SEO (Search Engine Optimization), Onli
 
 ![Horiseon website](assets/images/Screenshot%202022-06-27%20165612.png)
 ![Horiseon Website](assets/images/Screenshot%202022-06-27%20165651.png)
+
+
+## Deployed Application
+  - https://nathantyle.github.io/Horiseon/
